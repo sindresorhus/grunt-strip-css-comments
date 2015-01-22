@@ -5,7 +5,7 @@
 
 ## Install
 
-```sh
+```
 $ npm install --save-dev grunt-strip-css-comments
 ```
 
@@ -27,6 +27,12 @@ grunt.initConfig({
 
 grunt.registerTask('default', ['stripCssComments']);
 ```
+
+
+## Options
+
+See the `strip-css-comments` [options](https://github.com/sindresorhus/strip-css-comments#options).
+
 
 
 ## License
