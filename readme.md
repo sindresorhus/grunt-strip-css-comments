@@ -34,7 +34,6 @@ grunt.registerTask('default', ['stripCssComments']);
 See the `strip-css-comments` [options](https://github.com/sindresorhus/strip-css-comments#options).
 
 
-
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [Sindre Sorhus](https://sindresorhus.com)
