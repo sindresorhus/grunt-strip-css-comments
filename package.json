@@ -1,6 +1,6 @@
 {
   "name": "grunt-strip-css-comments",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Strip comments from CSS",
   "license": "MIT",
   "repository": "sindresorhus/grunt-strip-css-comments",
