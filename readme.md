@@ -1,4 +1,4 @@
-# grunt-strip-css-comments [![Build Status](https://travis-ci.org/sindresorhus/grunt-strip-css-comments.svg?branch=master)](https://travis-ci.org/sindresorhus/grunt-strip-css-comments)
+# grunt-strip-css-comments
 
 > Strip comments from CSS using [`strip-css-comments`](https://github.com/sindresorhus/strip-css-comments)
 
